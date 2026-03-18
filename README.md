@@ -7,7 +7,7 @@
 - - 🔭 I’m currently working on Building Personal Blog with Markdown Support | A clean, minimalist personal blog where an administrator can create, edit, and delete posts. Blog posts are written in Markdown for easy formatting and are rendered as HTML for public viewing. The admin interface is protected.
 - 🌱 I’m currently learning **React, MongoDB, Node.js**
 - 👯 I’m looking to collaborate on **Open-Source Contributions & Hackathons**
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS, Java,Swift**
 - 📫 How to reach me: **sadityasingh7990@gmail.com**
 
 ---
