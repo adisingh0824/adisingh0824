@@ -1,50 +1,26 @@
+
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate full stack developer & AIML enthusiast.</h3>
 
----
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and react js<br>
+<br>👨‍💻 All of my projects are available at https://github.com/adisingh0824<br><br>📝 I regularly solving problems on https://leetcode.com/u/adityasingh0824//<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me sadityasingh7990@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/adityasingh0824/
 
-- 🔭 I’m currently working on Building RamJiAttarWala 🌸 | Traditional attars × modern web technology ** (HTML, CSS)**
-- - 🔭 I’m currently working on Building Personal Blog with Markdown Support | A clean, minimalist personal blog where an administrator can create, edit, and delete posts. Blog posts are written in Markdown for easy formatting and are rendered as HTML for public viewing. The admin interface is protected.
-- 🌱 I’m currently learning **React, MongoDB, Node.js**
-- 👯 I’m looking to collaborate on **Open-Source Contributions & Hackathons**
-- 💬 Ask me about **HTML, CSS, Java,Swift**
-- 📫 How to reach me: **sadityasingh7990@gmail.com**
+## 🌐 Socials:
 
----
-
-### 🌐 Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  <a href="https://github.com/adisingh0824" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
+<a href="https://linkedin.com/in/aditya singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saditya7990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="meenu parashar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityasingh0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adisingh0824" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🛠 Languages and Tools:
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adisingh0824&show_icons=true&locale=en&layout=compact" alt="adisingh0824" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adisingh0824&show_icons=true&locale=en" alt="adisingh0824" /></p>
 
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisingh0824&layout=compact&theme=dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adisingh0824&show_icons=true&theme=dark" />
-</p>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=adisingh0824&color=blue)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adisingh0824&" alt="adisingh0824" /></p>
