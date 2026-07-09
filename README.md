@@ -8,135 +8,68 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 **Currently Building:** Real-World Full Stack Applications
+🔭 Currently building real-world Full Stack applications<br><br>
 
-🤖 **Learning:** Artificial Intelligence, Machine Learning & Modern Software Development
+🤖 Exploring Artificial Intelligence and modern software development<br><br>
 
-🌱 **Exploring:** AI Agents, Open Source & Cloud Technologies
+🌍 Contributing to Open Source and continuously improving development skills<br><br>
 
-💻 **Portfolio Projects:**  
-https://github.com/adisingh0824
+👨‍💻 All of my projects are available at <a href="https://github.com/adisingh0824">GitHub</a><br><br>
 
-🧩 **Problem Solving:**  
-https://leetcode.com/u/adityasingh0824/
+📝 I regularly solve problems on <a href="https://leetcode.com/u/adityasingh0824/">LeetCode</a><br><br>
 
-💬 **Ask Me About:**  
-JavaScript • React • Node.js • Express • MongoDB • GSAP • C++ • Python
+💬 Ask me about JavaScript, React, GSAP, C++ and Web Development<br><br>
 
-📫 **Email:**  
-**saditya79908@gmail.com**
+📫 Reach me at <a href="mailto:saditya79908@gmail.com">saditya79908@gmail.com</a><br><br>
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/adityasingh0824/
+📄 Know more about my experience on <a href="https://www.linkedin.com/in/adityasingh0824/">LinkedIn</a>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Socials:
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/adityasingh0824/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/adityasingh0824/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-</a>
-
-<a href="https://codeforces.com/profile/adityasingh0824" target="_blank">
-<img src="https://cdn.simpleicons.org/codeforces" height="45"/>
-</a>
-
-<a href="https://www.codechef.com/users/adisingh0824" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="45"/>
-</a>
-
-<a href="https://github.com/adisingh0824" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
+<a href="https://www.linkedin.com/in/adityasingh0824/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adisingh0824" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adityasingh0824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/adityasingh0824/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,postman,figma,linux&perline=11"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,postman,figma,linux" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adisingh0824&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=adisingh0824&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adisingh0824&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=adisingh0824&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisingh0824&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adisingh0824&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adisingh0824&theme=tokyo-night"/>
-
+  <img src="https://raw.githubusercontent.com/adisingh0824/adisingh0824/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adisingh0824&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/adisingh0824/adisingh0824/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
-
----
-
-<p align="center">
-
-✨ Thanks for visiting my profile! Have a great day! ✨
-
-</p>
